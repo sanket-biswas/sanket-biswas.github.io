@@ -8,18 +8,22 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+<h2>Preprints</h2>
 <div class="publications">
+{% bibliography --query @*[keywords~=preprint] %}
+</div>
 
-## Papers
-{% bibliography --query @*[keywords~=paper] --group_by year --group_order descending %}
+<h2>Theses</h2>
+<div class="publications">
+{% bibliography --query @*[keywords~=thesis] %}
+</div>
 
-## Books
-{% bibliography --query @*[keywords~=book] --group_by year --group_order descending %}
+<h2>Papers</h2>
+<div class="publications">
+{% bibliography --query @*[keywords~=paper] %}
+</div>
 
-## Preprints
-{% bibliography --query @*[keywords~=preprint] --group_by year --group_order descending %}
-
-## Theses
-{% bibliography --query @*[keywords~=thesis] --group_by year --group_order descending %}
-
+<h2>Books</h2>
+<div class="publications">
+{% bibliography --query @*[keywords~=book] %}
 </div>

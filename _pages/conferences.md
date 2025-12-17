@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /conferences/
-title: Conferences & Talks
+title: Talks
 nav: true
 nav_order: 3
 ---

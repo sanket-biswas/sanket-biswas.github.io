@@ -25,9 +25,15 @@ latest_posts:
   limit: 3
 ---
 
-# **Sanket Biswas**
+<p class="site-greeting">Hello and welcome to my website!</p>
 
-## Hello and welcome!
+<div class="profile-mobile">
+  <img src="{{ '/assets/img/Sanket_Profile_Pic_Berkeley.jpg' | relative_url }}" alt="Sanket Biswas headshot" />
+  <div class="profile-mobile-info">
+    Stanley Hall, Room F02-10229<br/>
+    Berkeley, CA 94720, USA
+  </div>
+</div>
 
 I am a first-year Ph.D. student in [Chemical Engineering](https://chemistry.berkeley.edu/cbe) at the [University of California, Berkeley](https://www.berkeley.edu/), co-advised by [Prof. Kranthi Mandadapu](https://prod-web.cchem.berkeley.edu/~kranthi/) and [Prof. Karthik Shekhar](https://shekharlab.github.io/). My research uses theoretical and computational modeling to study the spatiotemporal transport of ions—and the resulting electrochemical signals—across cellular lipid membranes. These signals may be driven by localized ionic fluxes through ion channels and pumps, or by externally applied electric fields. This work aims to advance fundamental understanding of membrane bioelectricity and may ultimately help inform improved treatments for disorders such as epilepsy, neurodegeneration, cardiomyopathies, and other channelopathies.
 

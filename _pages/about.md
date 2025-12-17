@@ -46,4 +46,4 @@ Previously, I completed my M.A.Sc. in [Chemical and Biological Engineering](http
 
 My research interests lie at the intersection of continuum mechanics, transport processes, and applied mathematics. I’m always happy to connect about research in these areas—or to chat with people considering similar paths.
 
-*Last updated: 2025-12-17*
+*Last updated: {{ site.time | date: "%B %d, %Y" }}*

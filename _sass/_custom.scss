@@ -1,0 +1,40 @@
+/* Greeting under name */
+.site-greeting {
+  font-size: 1.25rem;
+  margin-top: 0.25rem;
+  margin-bottom: 1rem;
+  opacity: 0.95;
+}
+
+/* Mobile-only profile block inserted in content */
+.profile-mobile {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  /* Hide the default profile card on mobile */
+  .profile {
+    display: none !important;
+  }
+
+  /* Show our in-content profile on mobile */
+  .profile-mobile {
+    display: block;
+    margin: 0.75rem 0 1.25rem 0;
+  }
+
+  .profile-mobile img {
+    width: 100%;
+    max-width: 520px;
+    height: auto;
+    border-radius: 14px;
+    display: block;
+  }
+
+  .profile-mobile-info {
+    margin-top: 0.6rem;
+    font-size: 1.05rem;
+    line-height: 1.4;
+    opacity: 0.9;
+  }
+}

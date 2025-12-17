@@ -25,8 +25,6 @@ latest_posts:
   limit: 3
 ---
 
-# **Sanket Biswas**
-
 <p class="site-greeting">Hello and welcome to my website!</p>
 
 <div class="profile-mobile">

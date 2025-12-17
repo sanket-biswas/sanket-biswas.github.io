@@ -8,22 +8,18 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-<h2>Papers</h2>
 <div class="publications">
-{% bibliography --query @*[keywords~=paper] %}
-</div>
 
-<h2>Preprints</h2>
-<div class="publications">
-{% bibliography --query @*[keywords~=preprint] %}
-</div>
+  <h2 class="pub-section">Papers</h2>
+  {% bibliography --query @*[keywords~=paper] %}
 
-<h2>Thesis</h2>
-<div class="publications">
-{% bibliography --query @*[keywords~=thesis] %}
-</div>
+  <h2 class="pub-section">Preprints</h2>
+  {% bibliography --query @*[keywords~=preprint] %}
 
-<h2>Books</h2>
-<div class="publications">
-{% bibliography --query @*[keywords~=book] %}
+  <h2 class="pub-section">Thesis</h2>
+  {% bibliography --query @*[keywords~=thesis] %}
+
+  <h2 class="pub-section">Books</h2>
+  {% bibliography --query @*[keywords~=book] %}
+
 </div>

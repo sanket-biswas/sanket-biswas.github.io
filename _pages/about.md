@@ -11,7 +11,7 @@ profile:
     <p>Stanley Hall, Room F02-10229</p>
     <p>Berkeley, CA 94720, USA</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:

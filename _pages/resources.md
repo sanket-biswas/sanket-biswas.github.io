@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /resources/
-title: Notes & Resources
+title: Notes
 nav: true
 nav_order: 6
 ---

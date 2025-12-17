@@ -515,7 +515,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/Sanket%20CV.pdf", "_blank");
         },
       },{
         id: 'social-github',

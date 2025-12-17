@@ -32,3 +32,11 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"tiwari":
+  - firstname: ["Harshita", "H."]
+    url: https://scholar.google.com/citations?user=1a3fSjMAAAAJ&hl=en
+
+"kumari":
+  - firstname: ["Kamlesh", "K."]
+    url: https://scholar.google.com/citations?user=sW7b4xAAAAAJ&hl=en

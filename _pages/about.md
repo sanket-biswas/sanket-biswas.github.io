@@ -31,7 +31,8 @@ latest_posts:
 
 <div class="profile-mobile">
   <img src="/assets/img/Sanket_Profile_Pic_Berkeley.jpg" alt="Sanket Biswas headshot" />
-  <div class="profile-mobile-info">
+  <div class="profile-mobile-info"
+       style="font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;">
     Stanley Hall, Room F02-10229<br/>
     Berkeley, CA 94720, USA
   </div>

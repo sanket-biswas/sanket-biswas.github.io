@@ -46,3 +46,23 @@
 .page-title {
   font-weight: 800 !important;
 }
+
+/* Boxed section headers on Publications page */
+.publications h2.pub-section {
+  display: inline-block;
+  padding: 0.45rem 0.85rem;
+  margin: 2.0rem 0 1.0rem 0;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.9rem;
+  background: var(--global-code-bg-color);
+  font-weight: 800;
+  letter-spacing: 0.01em;
+}
+
+/* Make the big right-side year a bit darker */
+.publications .year {
+  opacity: 0.35 !important; /* increase until you like it */
+}
+html[data-theme="dark"] .publications .year {
+  opacity: 0.45 !important;
+}

@@ -40,3 +40,9 @@
     opacity: 0.9;
   }
 }
+
+/* Make the main page title (e.g., "Sanket Biswas") bold */
+.post-title,
+.page-title {
+  font-weight: 800 !important;
+}

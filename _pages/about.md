@@ -46,6 +46,6 @@ I am a first-year Ph.D. student in [Chemical Engineering](https://chemistry.berk
 
 Previously, I completed my M.A.Sc. in [Chemical and Biological Engineering](https://chbe.ubc.ca/) at the [University of British Columbia, Vancouver](https://www.ubc.ca/), co-advised by [Prof. John Frostad](https://food.chbe.ubc.ca/people2/) and [Prof. Gwynn Elfring](https://soft.mech.ubc.ca/people/). My [thesis](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0450950) focused on analytical and numerical modeling of the dynamics of Newtonian and viscoelastic microdroplets under quasi-static and oscillatory deformation between two substrates, with the goal of extracting interfacial tension and bulk rheology from measured force responses using the Cantilevered Capillary Force Apparatus (CCFA).
 
-My research interests lie at the intersection of continuum mechanics, transport processes, and applied mathematics. I’m always happy to connect about research in these areas—or to chat with students considering similar paths.
+My research interests lie at the intersection of continuum mechanics, transport processes, and applied mathematics. I’m always happy to connect about research in these areas—or to chat with people considering similar paths.
 
 *Last updated: 2025-12-17*

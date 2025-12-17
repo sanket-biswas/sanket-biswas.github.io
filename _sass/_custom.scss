@@ -8,7 +8,7 @@
 
 /* Mobile-only profile block inserted in content */
 .profile-mobile {
-  display: none;
+  display: none !important;
 }
 
 @media (max-width: 768px) {
@@ -19,7 +19,7 @@
 
   /* Show our in-content profile on mobile */
   .profile-mobile {
-    display: block;
+    display: block !important;
     margin: 0.75rem 0 1.25rem 0;
   }
 

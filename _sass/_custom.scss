@@ -31,10 +31,13 @@
     display: block;
   }
 
-  .profile-mobile-info {
+    .profile-mobile-info {
     margin-top: 0.6rem;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
+      "Courier New", monospace;
     font-size: 1.05rem;
     line-height: 1.4;
+    letter-spacing: 0.02em;
     opacity: 0.9;
   }
 }

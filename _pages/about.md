@@ -25,10 +25,12 @@ latest_posts:
   limit: 3
 ---
 
+# **Sanket Biswas**
+
 <p class="site-greeting">Hello and welcome to my website!</p>
 
 <div class="profile-mobile">
-  <img src="{{ '/assets/img/Sanket_Profile_Pic_Berkeley.jpg' | relative_url }}" alt="Sanket Biswas headshot" />
+  <img src="/assets/img/Sanket_Profile_Pic_Berkeley.jpg" alt="Sanket Biswas headshot" />
   <div class="profile-mobile-info">
     Stanley Hall, Room F02-10229<br/>
     Berkeley, CA 94720, USA

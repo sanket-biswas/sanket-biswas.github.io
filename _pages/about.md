@@ -33,7 +33,7 @@ latest_posts:
   <img
     src="/assets/img/Sanket_Profile_Pic_Berkeley.jpg"
     alt="Sanket Biswas headshot"
-    style="display:block; width:100%; height:auto; margin:0 0 0.6rem 0;"
+    style="display:block; width:100%; height:auto; margin:0 0 1rem 0;"
   />
   <div class="profile-mobile-info"
        style="font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;">

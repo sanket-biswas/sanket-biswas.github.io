@@ -65,6 +65,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
+            },{id: "dropdown-repositories",
+              title: "Repositories",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/repositories/";
+              },
             },{id: "nav-collaborators",
           title: "Collaborators",
           description: "members of the lab or group",

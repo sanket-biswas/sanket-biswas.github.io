@@ -13,4 +13,7 @@ children:
   - title: divider
   - title: Repositories
     permalink: /repositories/
+  - title: divider
+  - title: Bookshelf
+    permalink: /books/
 ---

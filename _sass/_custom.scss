@@ -62,12 +62,13 @@
   letter-spacing: 0.01em;
 }
 
-/* Make the big right-side year a bit darker */
+/* Make the big right-side year darker / more visible */
 .publications .year {
-  opacity: 0.35 !important; /* increase until you like it */
+  opacity: 0.60 !important;   /* try 0.55–0.75 */
 }
+
 html[data-theme="dark"] .publications .year {
-  opacity: 0.45 !important;
+  opacity: 0.70 !important;   /* try 0.60–0.85 */
 }
 
 .publications .pub-block {

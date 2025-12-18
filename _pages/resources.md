@@ -2,6 +2,6 @@
 layout: page
 permalink: /resources/
 title: Notes
-nav: true
+nav: false
 nav_order: 9
 ---

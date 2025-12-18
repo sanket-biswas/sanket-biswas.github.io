@@ -10,4 +10,7 @@ children:
   - title: divider
   - title: Blog
     permalink: /blog/
+  - title: divider
+  - title: Repositories
+    permalink: /repositories/
 ---

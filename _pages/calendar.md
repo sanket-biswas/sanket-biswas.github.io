@@ -3,7 +3,6 @@ layout: page
 title: Calendar
 permalink: /calendar/
 nav: false
-nav_order: 8
 ---
 
 <div style="position:relative; padding-bottom:75%; height:0; overflow:hidden;">

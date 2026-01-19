@@ -8,6 +8,9 @@ children:
   - title: Notes
     permalink: /notes/
   - title: divider
+  - title: Calendar
+    permalink: /calendar/
+  - title: divider
   - title: Blog
     permalink: /blog/
   - title: divider
